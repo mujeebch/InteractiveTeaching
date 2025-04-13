@@ -1,5 +1,4 @@
-# InteractiveTeaching: Effectiveness of Topic Specific Poll at the Start and End
-of online Class during COVID-19 
+# InteractiveTeaching: Effectiveness of Topic Specific Poll at the Start and End of online Class during COVID-19 
 Interactive teaching during COVID-19
 
 
